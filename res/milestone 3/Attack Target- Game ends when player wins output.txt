@@ -1,0 +1,272 @@
+"C:\Program Files\Java\jdk-11.0.13\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.1\lib\idea_rt.jar=50992:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.1\bin" -Dfile.encoding=UTF-8 -classpath "C:\Users\sreeh\OneDrive\Desktop\milestone 3\cs5010-project-sreeharitha1396\out\production\cs5010-project-sreeharitha1396;C:\Users\sreeh\.m2\repository\junit\junit\4.13.1\junit-4.13.1.jar;C:\Users\sreeh\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar" controller.WorldGameDriver C:\workspacedocuments\mansion.txt 100
+C:\workspacedocuments\mansion.txt
+Please enter the correct number of the selected option.
+1. Display Room Details 
+2. Create Graphical Representation 
+3. Add Human Player 
+4. Add Computer Player 
+5. Move Player 
+6. Pick Weapon
+7. Look Around
+8. Display Player Details
+9. Move Pet
+10. Attack Target
+(Please enter QUIT for ending the game.)
+4
+Please enter the name, starting room index, weaponlimit of the new Computer player.
+computer1
+5
+6
+Output:
+Player is added successfully.
+computer1's turn now.
+Target's current room index is :0
+Target's health is :50
+computer1 attacked Doctor Lucky
+
+computer1's turn now.
+Target's current room index is :1
+Target's health is :49
+computer1 attacked Doctor Lucky
+
+computer1's turn now.
+Target's current room index is :2
+Target's health is :48
+computer1 attacked Doctor Lucky
+
+computer1's turn now.
+Target's current room index is :3
+Target's health is :47
+computer1 attacked Doctor Lucky
+
+computer1's turn now.
+Target's current room index is :4
+Target's health is :46
+computer1 attacked Doctor Lucky
+
+computer1's turn now.
+Target's current room index is :5
+Target's health is :45
+computer1 attacked Doctor Lucky
+
+computer1's turn now.
+Target's current room index is :6
+Target's health is :44
+computer1 attacked Doctor Lucky
+
+computer1's turn now.
+Target's current room index is :7
+Target's health is :43
+computer1 attacked Doctor Lucky
+
+computer1's turn now.
+Target's current room index is :8
+Target's health is :42
+computer1 attacked Doctor Lucky
+
+computer1's turn now.
+Target's current room index is :9
+Target's health is :41
+computer1 attacked Doctor Lucky
+
+computer1's turn now.
+Target's current room index is :10
+Target's health is :40
+computer1 attacked Doctor Lucky
+
+computer1's turn now.
+Target's current room index is :11
+Target's health is :39
+computer1 attacked Doctor Lucky
+
+computer1's turn now.
+Target's current room index is :12
+Target's health is :38
+computer1 attacked Doctor Lucky
+
+computer1's turn now.
+Target's current room index is :13
+Target's health is :37
+computer1 attacked Doctor Lucky
+
+computer1's turn now.
+Target's current room index is :14
+Target's health is :36
+computer1 attacked Doctor Lucky
+
+computer1's turn now.
+Target's current room index is :15
+Target's health is :35
+computer1 attacked Doctor Lucky
+
+computer1's turn now.
+Target's current room index is :16
+Target's health is :34
+computer1 attacked Doctor Lucky
+
+computer1's turn now.
+Target's current room index is :17
+Target's health is :33
+computer1 attacked Doctor Lucky
+
+computer1's turn now.
+Target's current room index is :18
+Target's health is :32
+computer1 attacked Doctor Lucky
+
+computer1's turn now.
+Target's current room index is :19
+Target's health is :31
+computer1 attacked Doctor Lucky
+
+computer1's turn now.
+Target's current room index is :20
+Target's health is :30
+computer1 attacked Doctor Lucky
+
+computer1's turn now.
+Target's current room index is :0
+Target's health is :29
+computer1 attacked Doctor Lucky
+
+computer1's turn now.
+Target's current room index is :1
+Target's health is :28
+computer1 attacked Doctor Lucky
+
+computer1's turn now.
+Target's current room index is :2
+Target's health is :27
+computer1 attacked Doctor Lucky
+
+computer1's turn now.
+Target's current room index is :3
+Target's health is :26
+computer1 attacked Doctor Lucky
+
+computer1's turn now.
+Target's current room index is :4
+Target's health is :25
+computer1 attacked Doctor Lucky
+
+computer1's turn now.
+Target's current room index is :5
+Target's health is :24
+computer1 attacked Doctor Lucky
+
+computer1's turn now.
+Target's current room index is :6
+Target's health is :23
+computer1 attacked Doctor Lucky
+
+computer1's turn now.
+Target's current room index is :7
+Target's health is :22
+computer1 attacked Doctor Lucky
+
+computer1's turn now.
+Target's current room index is :8
+Target's health is :21
+computer1 attacked Doctor Lucky
+
+computer1's turn now.
+Target's current room index is :9
+Target's health is :20
+computer1 attacked Doctor Lucky
+
+computer1's turn now.
+Target's current room index is :10
+Target's health is :19
+computer1 attacked Doctor Lucky
+
+computer1's turn now.
+Target's current room index is :11
+Target's health is :18
+computer1 attacked Doctor Lucky
+
+computer1's turn now.
+Target's current room index is :12
+Target's health is :17
+computer1 attacked Doctor Lucky
+
+computer1's turn now.
+Target's current room index is :13
+Target's health is :16
+computer1 attacked Doctor Lucky
+
+computer1's turn now.
+Target's current room index is :14
+Target's health is :15
+computer1 attacked Doctor Lucky
+
+computer1's turn now.
+Target's current room index is :15
+Target's health is :14
+computer1 attacked Doctor Lucky
+
+computer1's turn now.
+Target's current room index is :16
+Target's health is :13
+computer1 attacked Doctor Lucky
+
+computer1's turn now.
+Target's current room index is :17
+Target's health is :12
+computer1 attacked Doctor Lucky
+
+computer1's turn now.
+Target's current room index is :18
+Target's health is :11
+computer1 attacked Doctor Lucky
+
+computer1's turn now.
+Target's current room index is :19
+Target's health is :10
+computer1 attacked Doctor Lucky
+
+computer1's turn now.
+Target's current room index is :20
+Target's health is :9
+computer1 attacked Doctor Lucky
+
+computer1's turn now.
+Target's current room index is :0
+Target's health is :8
+computer1 attacked Doctor Lucky
+
+computer1's turn now.
+Target's current room index is :1
+Target's health is :7
+computer1 attacked Doctor Lucky
+
+computer1's turn now.
+Target's current room index is :2
+Target's health is :6
+computer1 attacked Doctor Lucky
+
+computer1's turn now.
+Target's current room index is :3
+Target's health is :5
+computer1 attacked Doctor Lucky
+
+computer1's turn now.
+Target's current room index is :4
+Target's health is :4
+computer1 attacked Doctor Lucky
+
+computer1's turn now.
+Target's current room index is :5
+Target's health is :3
+computer1 attacked Doctor Lucky
+
+computer1's turn now.
+Target's current room index is :6
+Target's health is :2
+computer1 attacked Doctor Lucky
+
+computer1's turn now.
+Target's current room index is :7
+Target's health is :1
+computer1 won the game! Congratulations!!
+ Target is killed.Game ended! 
+Process finished with exit code 0

@@ -1,0 +1,36 @@
+8) displaying information about a specific space in the world:
+
+"C:\Program Files\Java\jdk-11.0.13\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.1\lib\idea_rt.jar=57619:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.1\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\sreeh\OneDrive\Desktop\pdp\cs5010-project-sreeharitha1396\out\production\cs5010-project-sreeharitha1396;C:\Users\sreeh\.m2\repository\junit\junit\4.13.1\junit-4.13.1.jar;C:\Users\sreeh\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar controller.WorldGameDriver C:/Users/sreeh/OneDrive/Desktop/pdp/cs5010-project-sreeharitha1396/res/mansion.txt 12
+C:/Users/sreeh/OneDrive/Desktop/pdp/cs5010-project-sreeharitha1396/res/mansion.txt
+Please enter the correct number of the selected option.
+1. Display Room Details 
+2. Create Graphical Representation 
+3. Add Human Player 
+4. Add Computer Player 
+5. Move Player 
+6. Pick Weapon
+7. Look Around
+8. Display Player Details
+9. Limit Maximum Number Of Turns
+(Please enter QUIT for ending the game.)
+1
+Please enter the room index 
+2
+Output:
+Details of the specified room.
+ Name of the Room:  Carriage House
+ Index number of the room is: 2 
+Weapons available in  Carriage House are: 
+Players present in the room are: 
+No players in this room.
+Please enter the correct number of the selected option.
+1. Display Room Details 
+2. Create Graphical Representation 
+3. Add Human Player 
+4. Add Computer Player 
+5. Move Player 
+6. Pick Weapon
+7. Look Around
+8. Display Player Details
+9. Limit Maximum Number Of Turns
+(Please enter QUIT for ending the game.)

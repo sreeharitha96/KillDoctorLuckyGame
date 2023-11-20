@@ -1,0 +1,45 @@
+42 33 Sree Haritha's Mansion
+50 Doctor Lucky
+21
+39 15 42 23 Armory
+1   5 10  9 Billiard Room
+5  10 9 14 Carriage House
+5  25 14 32 Dining Hall
+11  0 19  6 Drawing Room
+21 25 27 26 Foyer
+28 27 38 29 Green House
+0   0  8  4 Hedge Maze
+18 15 30 24 Kitchen
+31 21 38 26 Lancaster Room
+20  0 28  6 Library
+15 27 27 33 Lilac Room
+31 15 38 20 Master Suite
+ 3 15 17 24 Nursery
+11  7 22 14 Parlor
+30  4 42  8 Piazza
+40 24 42 33 Servants' Quarters
+34  9 40 14 Tennessee Room
+26  9 33 14 Trophy Room
+28 30 39 33 Wine Cellar
+30  0 42  3 Winter Garden
+20
+8 3 Crepe Pan
+4 2 Letter Opener
+12 2 Shoe Horn
+8 3 Sharp Knife
+0 3 Revolver
+15 3 Civil War Cannon
+2 4 Chain Saw
+16 2 Broom Stick
+1 2 Billiard Cue
+19 2 Rat Poison
+6 2 Trowel
+2 4 Big Red Hammer
+6 2 Pinking Shears
+18 3 Duck Decoy
+13 2 Bad Cream
+18 2 Monkey Hand
+11 2 Tight Hat
+19 2 Piece of Rope
+9 3 Silken Cord
+7 2 Loud Noise

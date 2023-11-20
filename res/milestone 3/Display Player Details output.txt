@@ -1,0 +1,150 @@
+"C:\Program Files\Java\jdk-11.0.13\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.1\lib\idea_rt.jar=51328:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.1\bin" -Dfile.encoding=UTF-8 -classpath "C:\Users\sreeh\OneDrive\Desktop\milestone 3\cs5010-project-sreeharitha1396\out\production\cs5010-project-sreeharitha1396;C:\Users\sreeh\.m2\repository\junit\junit\4.13.1\junit-4.13.1.jar;C:\Users\sreeh\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar" controller.WorldGameDriver C:\workspacedocuments\mansion.txt 100
+C:\workspacedocuments\mansion.txt
+Please enter the correct number of the selected option.
+1. Display Room Details 
+2. Create Graphical Representation 
+3. Add Human Player 
+4. Add Computer Player 
+5. Move Player 
+6. Pick Weapon
+7. Look Around
+8. Display Player Details
+9. Move Pet
+10. Attack Target
+(Please enter QUIT for ending the game.)
+3
+Please enter the name, starting room index, weaponlimit of the new Human player.
+hari
+3
+5
+Output:
+Player is added successfully.
+hari's turn now.
+Target's current room index is :0
+Please enter the correct number of the selected option.
+1. Display Room Details 
+2. Create Graphical Representation 
+3. Add Human Player 
+4. Add Computer Player 
+5. Move Player 
+6. Pick Weapon
+7. Look Around
+8. Display Player Details
+9. Move Pet
+10. Attack Target
+(Please enter QUIT for ending the game.)
+4
+Please enter the name, starting room index, weaponlimit of the new Computer player.
+computer1
+6
+8
+Output:
+Player is added successfully.
+hari's turn now.
+Target's current room index is :0
+Please enter the correct number of the selected option.
+1. Display Room Details 
+2. Create Graphical Representation 
+3. Add Human Player 
+4. Add Computer Player 
+5. Move Player 
+6. Pick Weapon
+7. Look Around
+8. Display Player Details
+9. Move Pet
+10. Attack Target
+(Please enter QUIT for ending the game.)
+6
+No weapons available in this room. Enter any number.
+Please enter the weapon Id.
+4
+Output:
+No weapons available in this room.
+
+computer1's turn now.
+Target's current room index is :1
+hari attacked Doctor Lucky
+Target's health now: 48 
+
+hari's turn now.
+Target's current room index is :2
+Please enter the correct number of the selected option.
+1. Display Room Details 
+2. Create Graphical Representation 
+3. Add Human Player 
+4. Add Computer Player 
+5. Move Player 
+6. Pick Weapon
+7. Look Around
+8. Display Player Details
+9. Move Pet
+10. Attack Target
+(Please enter QUIT for ending the game.)
+7
+Output:
+Current room details: name=  Dining Hall , index= 3, players present= hari , weapons present=  no weapons present 
+Rooms which player can look from his current location: 
+0. Details of the room.
+ Name of the Room:  Lilac Room
+ Index number of the room is: 11 
+Weapons available in  Lilac Room are: 
+  Tight Hat 
+Players present in the room are: 
+No players in this room.
+1. Details of the room.
+ Name of the Room:  Nursery
+ Index number of the room is: 13 
+Weapons available in  Nursery are: 
+  Bad Cream 
+Players present in the room are: 
+No players in this room.
+
+computer1's turn now.
+Target's current room index is :3
+hari attacked Doctor Lucky
+Target's health now: 46 
+
+hari's turn now.
+Target's current room index is :4
+Please enter the correct number of the selected option.
+1. Display Room Details 
+2. Create Graphical Representation 
+3. Add Human Player 
+4. Add Computer Player 
+5. Move Player 
+6. Pick Weapon
+7. Look Around
+8. Display Player Details
+9. Move Pet
+10. Attack Target
+(Please enter QUIT for ending the game.)
+8
+Please enter the player Id.
+1
+Output:
+Details of the Player: 
+ name of the player: computer1 
+ current location of the player:  Green House 
+ weapon bag limit of the player: 8 
+ Neighbouring rooms for the Player are: 
+ Lancaster Room
+ Lilac Room
+ Wine Cellar
+ 
+ Available weapons in the player's baglist are: 
+No weapons in the bag.
+
+hari's turn now.
+Target's current room index is :4
+Please enter the correct number of the selected option.
+1. Display Room Details 
+2. Create Graphical Representation 
+3. Add Human Player 
+4. Add Computer Player 
+5. Move Player 
+6. Pick Weapon
+7. Look Around
+8. Display Player Details
+9. Move Pet
+10. Attack Target
+(Please enter QUIT for ending the game.)

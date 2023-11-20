@@ -1,0 +1,58 @@
+5) the player looking around:
+
+"C:\Program Files\Java\jdk-11.0.13\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.1\lib\idea_rt.jar=56237:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.1\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\sreeh\OneDrive\Desktop\pdp\cs5010-project-sreeharitha1396\out\production\cs5010-project-sreeharitha1396;C:\Users\sreeh\.m2\repository\junit\junit\4.13.1\junit-4.13.1.jar;C:\Users\sreeh\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar controller.WorldGameDriver C:/Users/sreeh/OneDrive/Desktop/pdp/cs5010-project-sreeharitha1396/res/mansion.txt 12
+C:/Users/sreeh/OneDrive/Desktop/pdp/cs5010-project-sreeharitha1396/res/mansion.txt
+Please enter the correct number of the selected option.
+1. Display Room Details 
+2. Create Graphical Representation 
+3. Add Human Player 
+4. Add Computer Player 
+5. Move Player 
+6. Pick Weapon
+7. Look Around
+8. Display Player Details
+9. Limit Maximum Number Of Turns
+(Please enter QUIT for ending the game.)
+3
+Please enter the name, starting room index, weaponlimit of the new Human player.
+sree
+4
+5
+Output:
+Player is added successfully.
+sree's turn now.
+Target's current room index is :0
+Target's health is :50
+Please enter the correct number of the selected option.
+1. Display Room Details 
+2. Create Graphical Representation 
+3. Add Human Player 
+4. Add Computer Player 
+5. Move Player 
+6. Pick Weapon
+7. Look Around
+8. Display Player Details
+9. Limit Maximum Number Of Turns
+(Please enter QUIT for ending the game.)
+7
+Target moved to room index: 1
+Output:
+Rooms which player can look from his current location: 
+ Billiard Room
+ Library
+ Parlor
+
+sree's turn now.
+Target's current room index is :1
+Target's health is :50
+Please enter the correct number of the selected option.
+1. Display Room Details 
+2. Create Graphical Representation 
+3. Add Human Player 
+4. Add Computer Player 
+5. Move Player 
+6. Pick Weapon
+7. Look Around
+8. Display Player Details
+9. Limit Maximum Number Of Turns
+(Please enter QUIT for ending the game.)
