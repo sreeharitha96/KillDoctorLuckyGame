@@ -1,21 +1,11 @@
-# CS 5010 Semester Project
 
-This repo represents the coursework for CS 5010, the Fall 2022 Edition!
+The /src and /test folders are kept private for this project to adhere to Academic Integrity. The executeable jar file is under /res folder and in case of any queries please reach out to me.
 
-**Name:** Sree Haritha Emani
-
-**Email:** vempati.sr@northeastern.edu
-
-**Preferred Name:** Sree Haritha
-
-### About/Overview
-
-The main theme of this project is to create, design, implement and test our own world game along
-with ten main features to be implemented  as part of this game and two of them were implemented in this milestone for the game.
+The main theme of this project is to create, design, implement and test our own world game along with ten main features to be implemented in four milestones.
 
 ### List of Features
 
-Features of "Sree Haritha's Mansion" are:
+Features of "Doctor Lucky's Mansion" are:
 
 1. Adds a human player based on the user inputs given on the console.
 2. Adds a computer player based on the user input given on the console.
@@ -61,12 +51,12 @@ the selected option:
    (Please enter QUIT for ending the game.)
    "
 
-when 1 is selected we need to enter the room id. when 2 is entered no need of any inputs. when 3 is
-selected user need to enter the details of the human player as specified. when 4 is selected user
-need to enter the details of the computer player as specified. when 5 is selected the player whose
-the turn will be moved accordingly. when 6 is selected the player can pick a weapon by entering the
-weapon id. when 7 is selected the player gets neighbours for the current location. when 8 is
-selected player details will be displayed. when 9 is selected the pet can be moved to desired room. when 10 is selected attack on target character can be performed
+When 1 is selected we need to enter the room id. When 2 is entered no need of any inputs. When 3 is
+selected user need to enter the details of the human player as specified. When 4 is selected user
+need to enter the details of the computer player as specified. When 5 is selected the player whose
+the turn will be moved accordingly. When 6 is selected the player can pick a weapon by entering the
+weapon id. When 7 is selected the player gets neighbours for the current location. When 8 is
+selected player details will be displayed. When 9 is selected the pet can be moved to desired room. When 10 is selected attack on target character can be performed.
 
 ### Example Runs
 
@@ -86,9 +76,6 @@ both and updated my UMl design as well.
 No Limitations.
 
 ### Citations
-
-In WorldImpl.class, lines(682-713):
-public String movePetAutomatically() {}
 
 Reference: https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/
 Using the above link I created the DFS algorithm for the pet movement.
