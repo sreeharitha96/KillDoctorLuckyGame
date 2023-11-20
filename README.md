@@ -62,11 +62,6 @@ selected player details will be displayed. When 9 is selected the pet can be mov
 
 There are totally 15 examples runs which are under "res" folder in the form of text files.
 
-### Design/Model Changes
-
-One change which is made in the design is, now Pet class is added to the design. So now I implemented
-both and updated my UMl design as well.
-
 ### Assumptions
 
 1. "Poke in Eye" weapon is having weaponId= 22. So when player has no weapons, he is given option to enter 22 so that "poke in eye" can be used.
